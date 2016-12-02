@@ -1,0 +1,17 @@
+ReadMe:
+------
+
+TO run the application please go to DoctorAppEntry and start.
+
+Just to make the process simple i have added a scanner to get the doctor's name so you will be asked to 
+enter the doctor's name to be searched for similar type.
+
+I have created a CSV file to get the doctor information.
+
+I have created a Test folder that has the unit test 
+
+Total time to code this application was 45 minutes and i went one step ahead in created readme file which 
+took an additional 10 minutes and wanted to be sure of all the validation so that took another 5 minutes.
+So in total i spent about 1 hr for this application.
+
+----------------------------------------------------------------------------------------------------
